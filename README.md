@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Krish Desai</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkcoder02&label=Profile%20views&color=0e75b6&style=flat" alt="dkcoder02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkcoder02" alt="dkcoder02" /></a> </p>
 
+- 🔭 I’m currently working on **MERN Stack and AI Agent**
+
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 📫 How to reach me **desaikrish076@gmail.com**
+- 👨‍💻 All of my projects are available at **https://desaikrish.com**
+
+- 📝 I regularly write articles on **https://krish-desai.hashnode.dev**
+
+- 💬 Ask me about **Next.js, Node.js, Python, Langchain, Langgraph** Etc.
+
+- 📫 How to reach me **https://desaikrish.com**
 
 
 <h3 align="left">Connect with me:</h3>
